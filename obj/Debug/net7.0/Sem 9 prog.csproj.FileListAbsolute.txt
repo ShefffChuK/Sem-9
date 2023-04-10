@@ -1,0 +1,5 @@
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 9 prog\obj\Debug\net7.0\Sem 9 prog.csproj.AssemblyReference.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 9 prog\obj\Debug\net7.0\Sem 9 prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 9 prog\obj\Debug\net7.0\Sem 9 prog.AssemblyInfoInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 9 prog\obj\Debug\net7.0\Sem 9 prog.AssemblyInfo.cs
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 9 prog\obj\Debug\net7.0\Sem 9 prog.csproj.CoreCompileInputs.cache
